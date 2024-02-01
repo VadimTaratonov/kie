@@ -22,7 +22,7 @@
   </dmn:inputData>
   <dmn:decision id="_663206EC-6538-4E9F-9CBA-2021BE8C5ED5" name="Decision-1">
     <dmn:extensionElements/>
-    <dmn:question>Возраст больше 18?</dmn:question>
+    <dmn:question>Возраст больше f 18?</dmn:question>
     <dmn:allowedAnswers>Да
 Нет</dmn:allowedAnswers>
     <dmn:variable id="_BDEA0C32-2B67-46F8-93FE-BE0ACF118D47" name="Decision-1" typeRef="personType"/>
