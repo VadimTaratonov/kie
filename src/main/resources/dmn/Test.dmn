@@ -120,6 +120,10 @@
       </dmn:literalExpression>
     </dmn:encapsulatedLogic>
   </dmn:businessKnowledgeModel>
+  <dmn:decision id="_99FB6D32-8782-4A9A-AC07-C5ECD3C68917" name="Decision-3">
+    <dmn:extensionElements/>
+    <dmn:variable id="_B7DA1B97-450A-40CB-B47F-A1F717BF9A36" name="Decision-3"/>
+  </dmn:decision>
   <dmndi:DMNDI>
     <dmndi:DMNDiagram id="_A11C374E-0560-4736-9CF6-246721ADD0C0" name="DRG">
       <di:extension>
@@ -179,6 +183,15 @@
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
         <dc:Bounds x="591" y="477" width="100" height="50"/>
+        <dmndi:DMNLabel/>
+      </dmndi:DMNShape>
+      <dmndi:DMNShape id="dmnshape-drg-_99FB6D32-8782-4A9A-AC07-C5ECD3C68917" dmnElementRef="_99FB6D32-8782-4A9A-AC07-C5ECD3C68917" isCollapsed="false">
+        <dmndi:DMNStyle>
+          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:StrokeColor red="0" green="0" blue="0"/>
+          <dmndi:FontColor red="0" green="0" blue="0"/>
+        </dmndi:DMNStyle>
+        <dc:Bounds x="437" y="506.9115793328536" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_6DA469FC-3246-42C5-8BAF-A5AEB9AE88DC-AUTO-TARGET" dmnElementRef="_6DA469FC-3246-42C5-8BAF-A5AEB9AE88DC">
