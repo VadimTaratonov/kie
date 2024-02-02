@@ -14,7 +14,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="50" y="50" width="100" height="50"/>
+        <dc:Bounds x="118" y="353" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_663206EC-6538-4E9F-9CBA-2021BE8C5ED5" dmnElementRef="included1:_663206EC-6538-4E9F-9CBA-2021BE8C5ED5" isCollapsed="false">
@@ -23,7 +23,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="225" y="50" width="100" height="50"/>
+        <dc:Bounds x="215" y="227" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_37F796A3-8DC5-4B3A-967D-A0603A792730" dmnElementRef="included1:_37F796A3-8DC5-4B3A-967D-A0603A792730" isCollapsed="false">
